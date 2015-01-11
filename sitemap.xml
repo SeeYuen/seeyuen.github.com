@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://c.doublewong.com/2015/hello-world/</loc>
+    <lastmod>2015-01-11T15:29:23.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://c.doublewong.com/2015/kugua/</loc>
     <lastmod>2015-01-11T15:25:40.000Z</lastmod>
   </url>
@@ -44,11 +49,6 @@
   <url>
     <loc>http://c.doublewong.com/tags/index.html</loc>
     <lastmod>2015-01-09T14:28:55.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://c.doublewong.com/2015/hello-world/</loc>
-    <lastmod>2015-01-09T09:14:11.000Z</lastmod>
   </url>
   
 </urlset>
