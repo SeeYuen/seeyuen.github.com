@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://c.doublewong.com/"/>
-  <updated>2015-01-11T15:29:32.787Z</updated>
+  <updated>2015-01-12T15:01:05.369Z</updated>
   <id>http://c.doublewong.com/</id>
   
   <author>
@@ -13,6 +13,27 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[lucky]]></title>
+    <link href="http://c.doublewong.com/2015/lucky/"/>
+    <id>http://c.doublewong.com/2015/lucky/</id>
+    <published>2015-01-12T14:57:34.000Z</published>
+    <updated>2015-01-12T15:00:58.000Z</updated>
+    <content type="html"><![CDATA[<p>今天早上收到一个微博抽奖送的小礼物，又收到一封邀请函，就去和老公商量。老公的意见总是让我茅塞顿开。谢谢老公，昨晚没有踢被子，感觉萌萌哒…自己都要妈癌了哈哈。</p>
+<p>老公老公我想你…</p>
+<p>老公金句，咸鱼都要伤害我，说完了继续吃…刚才他被咸鱼刺到了…</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>今天早上收到一个微博抽奖送的小礼物，又收到一封邀请函，就去和老公商量。老公的意见总是让我茅塞顿开。谢谢老公，昨晚没有踢被子，感觉萌萌哒…自己都要妈癌了哈哈。</p>
+<p>老公老公我想你…</p>
+<p>老公金句，咸鱼都要伤害我，说完了继续吃…刚才他被咸鱼刺到了…</p>
+]]>
+    </summary>
+    
+      <category term="Life" scheme="http://c.doublewong.com/categories/Life/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[日子]]></title>
@@ -60,11 +81,15 @@
     <link href="http://c.doublewong.com/2015/love-letter-2/"/>
     <id>http://c.doublewong.com/2015/love-letter-2/</id>
     <published>2015-01-10T15:18:47.000Z</published>
-    <updated>2015-01-10T15:19:30.000Z</updated>
-    <content type="html"><![CDATA[<p>爱你如草莓般初恋。</p>
+    <updated>2015-01-12T02:05:28.000Z</updated>
+    <content type="html"><![CDATA[<blockquote>
+<p>爱你如草莓般初恋。</p>
+</blockquote>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>爱你如草莓般初恋。</p>
+    <![CDATA[<blockquote>
+<p>爱你如草莓般初恋。</p>
+</blockquote>
 ]]>
     </summary>
     
@@ -94,11 +119,15 @@
     <link href="http://c.doublewong.com/2015/love-letter-1/"/>
     <id>http://c.doublewong.com/2015/love-letter-1/</id>
     <published>2015-01-09T14:57:41.000Z</published>
-    <updated>2015-01-10T15:16:56.000Z</updated>
-    <content type="html"><![CDATA[<p>爱你和吃饱了就睡一样幸福。</p>
+    <updated>2015-01-12T02:05:27.000Z</updated>
+    <content type="html"><![CDATA[<blockquote>
+<p>爱你和吃饱了就睡一样幸福。</p>
+</blockquote>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>爱你和吃饱了就睡一样幸福。</p>
+    <![CDATA[<blockquote>
+<p>爱你和吃饱了就睡一样幸福。</p>
+</blockquote>
 ]]>
     </summary>
     
