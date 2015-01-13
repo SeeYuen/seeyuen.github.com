@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://c.doublewong.com/"/>
-  <updated>2015-01-12T15:11:01.248Z</updated>
+  <updated>2015-01-13T14:14:04.986Z</updated>
   <id>http://c.doublewong.com/</id>
   
   <author>
@@ -13,6 +13,23 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[小怪物]]></title>
+    <link href="http://c.doublewong.com/2015/love-letter-5/"/>
+    <id>http://c.doublewong.com/2015/love-letter-5/</id>
+    <published>2015-01-13T14:13:13.000Z</published>
+    <updated>2015-01-13T14:13:59.000Z</updated>
+    <content type="html"><![CDATA[<p>长得又像你又像我是怎样的小怪物呢？</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>长得又像你又像我是怎样的小怪物呢？</p>
+]]>
+    </summary>
+    
+      <category term="Love Letter" scheme="http://c.doublewong.com/categories/Love-Letter/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[小日子]]></title>
