@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://c.doublewong.com/"/>
-  <updated>2015-01-14T16:34:45.525Z</updated>
+  <updated>2015-01-15T15:45:29.358Z</updated>
   <id>http://c.doublewong.com/</id>
   
   <author>
@@ -13,6 +13,46 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[groupon]]></title>
+    <link href="http://c.doublewong.com/2015/groupon/"/>
+    <id>http://c.doublewong.com/2015/groupon/</id>
+    <published>2015-01-15T15:43:02.000Z</published>
+    <updated>2015-01-15T15:45:20.000Z</updated>
+    <content type="html"><![CDATA[<p>老公二话不说给我打钱，请我同学吃饭，大家都爱他。我老公对我真好啊，我话还没说完，他就把钱打过来了。幸福幸福幸福呀！</p>
+<p>才离开没多久就开始 担心今天的你过得好不好 整个画面是你 想你想的睡不著 嘴嘟嘟那可爱的模样 还有在你身上香香的味道</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>老公二话不说给我打钱，请我同学吃饭，大家都爱他。我老公对我真好啊，我话还没说完，他就把钱打过来了。幸福幸福幸福呀！</p>
+<p>才离开没多久就开始 担心今天的你过得好不好 整个画面是你 想你想的睡不著 嘴嘟嘟那可爱的模样 还有在你身上香香的味道</p>
+]]>
+    </summary>
+    
+      <category term="Life" scheme="http://c.doublewong.com/categories/Life/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Star]]></title>
+    <link href="http://c.doublewong.com/2015/love-letter-7/"/>
+    <id>http://c.doublewong.com/2015/love-letter-7/</id>
+    <published>2015-01-15T15:31:25.000Z</published>
+    <updated>2015-01-15T15:32:14.000Z</updated>
+    <content type="html"><![CDATA[<blockquote>
+<p>看满天的星星看到脑溢血。</p>
+</blockquote>
+]]></content>
+    <summary type="html">
+    <![CDATA[<blockquote>
+<p>看满天的星星看到脑溢血。</p>
+</blockquote>
+]]>
+    </summary>
+    
+      <category term="Love Letter" scheme="http://c.doublewong.com/categories/Love-Letter/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Help]]></title>
